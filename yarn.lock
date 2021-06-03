@@ -1385,10 +1385,10 @@
     semver "^6.1.0"
     strip-ansi "^6.0.0"
 
-"@vue/compat@3.1.0-beta.1":
-  version "3.1.0-beta.1"
-  resolved "https://registry.yarnpkg.com/@vue/compat/-/compat-3.1.0-beta.1.tgz#95c2c10b4e7116bf62046200dc25e75193ed9966"
-  integrity sha512-gl+ZNJurHB0zr5ub5GR5be63a01mwwGGnl0ZiZmvXVPgKXjzdl/X8S2GzJB1713PcFs4b7Mbr1m6Pd3xv889AQ==
+"@vue/compat@3.1.0-beta.7":
+  version "3.1.0-beta.7"
+  resolved "https://registry.yarnpkg.com/@vue/compat/-/compat-3.1.0-beta.7.tgz#649294aa8946e783919ec45e890b3b6a040ef4f9"
+  integrity sha512-ZXGYHraV5isCQ/H+9jgGdWJ1p9OscFYPmWDCxFfplseOpavS16kqmZPQ9ibkeQGtJvtgpkG5BoAPTcsGcgBXkw==
 
 "@vue/compiler-core@3.0.11":
   version "3.0.11"
